@@ -9,7 +9,6 @@ Repository documenting my work throughout the **PureLogics "From Zero to AI Hero
 | **Organization** | PureLogics |
 | **Duration** | 3 months (12 weeks) |
 | **Format** | Onsite, in-person training |
-| **Schedule** | Evenings, 5:00 PM – 9:00 PM |
 | **Focus** | Python, Machine Learning, Deep Learning, LLMs & AI Agents |
 | **Extras** | Weekly soft skills sessions, mentorship from industry experts |
 
@@ -33,26 +32,26 @@ Repository documenting my work throughout the **PureLogics "From Zero to AI Hero
 - **Week 11:** AI Agents
 - **Week 12:** Capstone Project & Special Topics
 
-## Repository Structure
+## Example Repository Structure
 
 ```
 .
-├── week-01-python-ai-essentials/
-├── week-02-data-wizardry/
-├── week-03-preprocessing-eda/
-├── week-04-ml-algorithms/
-├── week-05-tuning-deployment/
-├── week-06-neural-networks/
-├── week-07-cnns-computer-vision/
-├── week-08-transformers/
-├── week-09-llm-rag/
-├── week-10-generative-ai/
-├── week-11-ai-agents/
-├── week-12-capstone/
+├── w1 - python-ai-essentials/
+├── w2-data-wizardry/
+├── w3-preprocessing-eda/
+├── w4-ml-algorithms/
+├── w5-tuning-deployment/
+├── w6-neural-networks/
+├── w7-cnns-computer-vision/
+├── w8-transformers/
+├── w9-llm-rag/
+├── w10-generative-ai/
+├── w11-ai-agents/
+├── w12-capstone/
 └── README.md
 ```
 
-Each week's folder contains the corresponding lab exercises, mini-projects, and notes, along with its own README where relevant.
+Each week's has different folders that contains the corresponding lab exercises, mini-projects, and notes, along with its own README where relevant.
 
 ## Tech Stack
 
@@ -65,9 +64,9 @@ Each week's folder contains the corresponding lab exercises, mini-projects, and 
 ## Progress
 
 - [x] Week 1 — Python & AI Essentials
-- [ ] Week 2 — Data Wizardry & Project Setup
-- [ ] Week 3 — Preprocessing & EDA
-- [ ] Week 4 — ML Algorithms
+- [x] Week 2 — Data Wizardry & Project Setup
+- [x] Week 3 — Preprocessing & EDA
+- [x] Week 4 — ML Algorithms
 - [ ] Week 5 — Tuning & Deployment
 - [ ] Week 6 — Neural Networks
 - [ ] Week 7 — CNNs & Computer Vision
@@ -79,4 +78,4 @@ Each week's folder contains the corresponding lab exercises, mini-projects, and 
 
 ## Author
 
-Maintained by [Your Name] as part of the PureLogics AI/ML Trainee Program cohort.
+Maintained by Hafiz Hamza Ahmed as part of the PureLogics AI/ML Trainee Program cohort.
